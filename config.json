@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricspncrypt",
+        "uuid": 6558825,
+        "checksum": "uq1cms"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
